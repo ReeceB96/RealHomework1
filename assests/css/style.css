@@ -1,0 +1,183 @@
+h1{
+    background-color: #4aaaa5;
+    color: #ffffff;
+    border-color: #cccccc;
+    font-family: 'Georgia', Times, 'Times new Roman', serif;
+    font-size: 30px;
+    height: 80px;
+}
+h2{
+    color: #4aaaa5;
+    background-color: #ffffff;
+    border-color: #cccccc;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+}
+
+p{
+    color: #777777;
+    line-height: 1.4;
+    margin: inherit;
+}
+
+footer{
+    background-color: #666666;
+    border-top: 8px solid #4aaaa5;
+    text-align: center;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: white;
+    height: 60px;
+    padding-top: 10x;
+}
+
+#Copyright{
+    position: absolute;
+    bottom: 10px;
+}
+body{
+    border-color: #dddddd;
+    background-image: url("../images/herringbone.png");
+    background-repeat: round;
+    margin: -5px;
+}
+ul{
+    list-style-type: none;
+    margin-top: -8px;
+    padding: 0;
+    overflow: hidden;
+    background-color: #ffffff;
+}
+li h1{
+    float: left;
+}
+li a{
+    display: block;
+    float: right;
+    color: #777777;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+#border{
+    border-style: solid;
+    border-bottom-width: 1px;
+    margin-bottom: 20px;
+    color: #cccccc;
+}
+#middle{
+    border-style: solid;
+    border-width: 1px;
+    color: #cccccc;
+    padding-bottom: 10%;
+    margin: 2%;
+    background-color: white;
+    float: center;
+    width: 800px;
+}
+#outside{
+    position: absolute;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+#inside{
+    margin: 3%;
+}
+.profile{
+    width: 10%;
+    float: left;
+    margin-right: 15px;
+}
+#middle2{
+    border-style: solid;
+    border-width: 1px;
+    color: #cccccc;
+    padding-bottom: 10%;
+    margin: 2%;
+    background-color: white;
+    float: center;
+    width: 800px;
+    margin-left: 50px;
+}
+#name{
+    margin-top: 0px;
+    margin-left: 220px;
+    margin-bottom: 0px;
+}
+header{
+    width: 100%;
+    margin: -8px;
+    margin: auto;
+}
+#Name{
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    color: #777777;
+}
+#John{
+    border: #cccccc;
+    border-style: solid;
+    border-width: 1px;
+}
+#Email{
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    color: #777777;
+}
+#Example{
+    border: #cccccc;
+    border-style: solid;
+    border-width: 1px;
+}
+#Message{
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    color: #777777;
+}
+#Empty{
+    border: #cccccc;
+    border-style: solid;
+    height: 150px;
+    border-width: 1px;
+}
+#button{
+    background-color: #4aaaa5;
+    color: white;
+    border: #cccccc;
+    border-style: solid;
+    border-width: 1px;
+    height: 30px;
+    width: 80px;
+}
+.image1 {
+    height: 100px;
+    width: 100px;
+    float: left;
+}
+.image2 {
+    height: 100px;
+    width: 100px;
+    float: bottom;
+}
+.image5 {
+    height: 100px;
+    width: 100px;
+}
+ .image3 {
+    height: 100px;
+    width: 100px;
+    }
+.image4 {
+    height: 100px;
+    width: 100px;
+}
+.image1 {
+    padding: 5px;
+    margin-top: -5px;
+}
+.banner {
+    position:relative;
+    width: 90%;
+}
+
+
+
+
